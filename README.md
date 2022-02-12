@@ -1,9 +1,9 @@
 <div align='center'>
   
-## Hello there 👋
+## Hello there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
   
 <p>
-<img src='https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif' height=24% width=24%>
+<img src='https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif' height=30% width=30%>
  </p>
 
   ```
